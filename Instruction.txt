@@ -1,0 +1,3 @@
+First run server and leave the terminal as it is
+Then open another terminal and run client 
+
