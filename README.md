@@ -1,7 +1,7 @@
 📚 Computer-LAB-3
 Practical Lab III
 SPPU B.E. Artificial Intelligence and Data Science – Semester 8
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Practical 1: Remote Procedure Call (RPC)
 Files:
 Client.py
@@ -11,20 +11,16 @@ Server.py
 Steps to Execute:
 First, open a terminal and run the Server:
 
-bash
-Copy
-Edit
 python Server.py
 Leave the server running in that terminal.
 
 Next, open another terminal and run the Client:
 
-bash
-Copy
-Edit
 python Client.py
 Now, you can interact with the system by entering integer inputs.
 Enter -1 to exit the client.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Practical 11: Hotel Booking System using Pyro4
 Files:
