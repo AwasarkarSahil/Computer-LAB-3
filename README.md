@@ -3,6 +3,15 @@
 Practical Lab III of **SPPU B.E. Artificial Intelligence and Data Science** – Semester 8
 
 ---
+practical 1 RPC has 2 fiel 
+    1. cilent.py
+    2. server.py 
+step first run the server in terminal 
+then open another terminal then run client 
+
+
+
+
 how to execute pratical no 11 in vscode 💡 How to Run in VS Code
 
 Install Pyro4 (if not already):
